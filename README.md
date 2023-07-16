@@ -132,10 +132,3 @@ Happy printing!
 - [AndrewEllis93's Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
 - [Vector3D's Califlower (for X/Y stepper calibration)](https://vector3d.co.uk/product/vector-3d-printer-calibration-and-test-suite/)
 
-# Donations
-
-Found this repo helpful? Buy me a [Ko-Fi](https://ko-fi.com/tinyfluffs_).
-
-# License
-
-MIT License
